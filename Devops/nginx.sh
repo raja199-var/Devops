@@ -20,4 +20,4 @@ sudo chmod 644 /var/www/html/index.html
 
 echo "Nginx is running."
 echo "Open in browser:"
-
+echo "https://localhost"
